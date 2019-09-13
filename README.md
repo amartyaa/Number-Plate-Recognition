@@ -6,6 +6,8 @@ All credit goes to https://github.com/AzharMithani/License-Plate-Detection. I ju
 
 
 
-##Usage
+## Usage
+```bash
 cd /License-Plate-Recognition
 python3 Main.py
+```
